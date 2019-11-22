@@ -1,5 +1,7 @@
 # [iOS Related Blog Posts](https://medium.com/a-developer-in-making/tagged/ios)
 
+## [Integrating SwiftUI with UIKit and Developing Xcode Previews for UIKit’s ViewController](https://medium.com/swlh/integrating-swiftui-with-uikit-and-developing-xcode-previews-for-uikits-viewcontroller-39941aaf2392)
+One of the latest framework that Apple has introduced in WWDC19 is SwiftUI. In this article, you will learn how to integrate SwiftUI with UIKit and how to develop Xcode Previews for UIKit’s ViewController.
 
 
 ## [Recreating Settings App using SwiftUI Concepts](https://medium.com/a-developer-in-making/recreating-settings-app-using-swiftui-concepts-e034d2a95ed1)
@@ -41,7 +43,6 @@ Segues are used to define the flow of your app’s interface. A segue defines a 
 ## [How to Use SafariViewController in Swift](https://medium.com/a-developer-in-making/how-to-use-safariviewcontroller-in-swift-85ea39794c03)
 Mobile apps and viewing content on the web are easy now a days. For years, iOS developers have been charged with either creating their own web viewing experience inside their app or handing off the URL to Safari. Both of these approaches bring disadvantages that were previously unavoidable.
 That’s all changed with iOS 9 and the introduction of the SFSafariViewController class. With it, you can now provide a full web viewing experience inside your app without having to spend important development time providing it.
-
 
 
 ## [Blur an UIView & how to use them in Extension in Swift](https://medium.com/a-developer-in-making/blur-an-uiview-how-to-use-them-in-extension-in-swift-5416203878c0)
