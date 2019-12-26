@@ -1,4 +1,8 @@
-# [iOS Related Blog Posts](https://medium.com/a-developer-in-making/tagged/ios)
+# [iOS Related Blog Posts](https://medium.com/a-developer-in-making/tagged/ios) and [My Medium Blog Profile](https://medium.com/@shankarmadeshvaran)
+
+## [Building Movie Trailer App Using SwiftUI](https://medium.com/flawless-app-stories/building-movie-trailer-app-using-swiftui-5d4dc5497462)
+One of the latest framework that Apple has introduced in WWDC19 is SwiftUI and Combine.In this article, we are going to build a Movie Trailer App using SwiftUI concepts. I have also explained how to do Integration of UIKit Views into SwiftUI in detail.
+
 
 ## [Integrating SwiftUI with UIKit and Developing Xcode Previews for UIKit’s ViewController](https://medium.com/swlh/integrating-swiftui-with-uikit-and-developing-xcode-previews-for-uikits-viewcontroller-39941aaf2392)
 One of the latest framework that Apple has introduced in WWDC19 is SwiftUI. In this article, you will learn how to integrate SwiftUI with UIKit and how to develop Xcode Previews for UIKit’s ViewController.
