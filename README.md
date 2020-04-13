@@ -1,5 +1,8 @@
 # [iOS Related Blog Posts](https://medium.com/a-developer-in-making/tagged/ios) and [My Medium Blog Profile](https://medium.com/@shankarmadeshvaran)
 
+## [UICollectionView -Developing Filters UI Using Auto Resizing Cells](https://medium.com/flawless-app-stories/uicollectionview-developing-filters-ui-using-auto-resizing-cells-98f19fbce88b)
+Developing Auto Resizing Cells based on content using UIStackView in UICollectionView
+
 ## [Building Movie Trailer App Using SwiftUI](https://medium.com/flawless-app-stories/building-movie-trailer-app-using-swiftui-5d4dc5497462)
 One of the latest framework that Apple has introduced in WWDC19 is SwiftUI and Combine.In this article, we are going to build a Movie Trailer App using SwiftUI concepts. I have also explained how to do Integration of UIKit Views into SwiftUI in detail.
 
@@ -14,7 +17,7 @@ to recreate Settings app in iPhone XR using SwiftUI concepts.By building Setting
 
 
 ## [Puzzle Game using UI Drag & Drop APIs in Swift](https://medium.com/a-developer-in-making/puzzle-game-using-ui-drag-drop-apis-in-swift-4bd9d29f6c20)
-We are going to how implement Drag & Drop in iOS application using Swift language. I’m going to show you how it works and how to develop a simple puzzle app in your application. In this tutorial, we are going to see:
+We are going to learn about how to implement Drag & Drop in iOS application using Swift language. I’m going to show you how it works and how to develop a simple puzzle app in your application. In this tutorial, we are going to see:
 What is Drag & Drop? How to use Drag and Drop APIs to develop simple Puzzle Game.
 
 
